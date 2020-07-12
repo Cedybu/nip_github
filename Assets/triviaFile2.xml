@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTrivia xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Trivia>
+    <modelName>EiffelTower</modelName>
+    <triviaList>
+      <string>ist gross</string>
+      <string>ist schön</string>
+      <string>ist schweizer</string>
+      <string>ist metall</string>
+    </triviaList>
+    <shown>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+    </shown>
+  </Trivia>
+  <Trivia>
+    <modelName>cottage</modelName>
+    <triviaList>
+      <string>ist haus</string>
+      <string>ist klein</string>
+      <string>ist heimelig</string>
+      <string>ist im Wald</string>
+    </triviaList>
+    <shown>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+    </shown>
+  </Trivia>
+</ArrayOfTrivia>
