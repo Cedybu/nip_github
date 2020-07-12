@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "358089783766",
+    "firebase_url": "https://novel-interaction-paradigms.firebaseio.com",
+    "project_id": "novel-interaction-paradigms",
+    "storage_bucket": "novel-interaction-paradigms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358089783766:android:769c0e2a7815f5f082cc77",
+        "android_client_info": {
+          "package_name": "com.FHNW.novelinteractionparadigms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358089783766-hfanc83ca7gab34g5vh5t3u4qkdlh069.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNCXe9iloqSHPYMBS-UPYRfbGtxZKGwSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358089783766-hfanc83ca7gab34g5vh5t3u4qkdlh069.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
